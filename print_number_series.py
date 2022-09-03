@@ -28,7 +28,7 @@ def odd_numbers(num,n):
     print(num)
     num = num + 2
     i = i + 1
-
+# Function for fibonacci number
 def fibonacci(num,n):
   # Display the given number with required number of fibonacci numbers to be printed
   print(f" Printing {n} fibonacci numbers after {num} ")
@@ -47,7 +47,7 @@ def fibonacci(num,n):
       i = i + 1
     num1 = num2
     num2 = num3
-# Function for fibonacci number
+
 
 choice ='yes'
 while (choice.lower()=='yes'):
